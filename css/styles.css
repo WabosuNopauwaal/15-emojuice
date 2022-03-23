@@ -84,6 +84,11 @@ main {
   background-color: #F7A4B4;
 }
 
+.card-title {
+  font-family: 'Sriracha', serif;
+  font-size: 30px;
+}
+
 .citation {
   font-family: 'Quattrocento', serif;
   font-size: 16px;
