@@ -10,9 +10,37 @@ main {
   background-color: #66CC66;
 }
 
+.white-card {
+  text-align: center;
+  background: rgba(255,255,255,0.8);
+  margin: 30px;
+}
+
+.white-card p {
+  font-family: 'Quattrocento', sans-serif;
+  color: #57BB6B;
+}
+
+button-white {
+  
+}
+
+
 header {
   background-image: url(../img/background.webp);
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 .white-color {
   color: white;
@@ -43,9 +71,6 @@ h1 {
   background-color: #F7A4B4;
 }
 
-div {
-  border-radius: 21px;
-}
 
 .footer-text {
   color: #57BB6B;
