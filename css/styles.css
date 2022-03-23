@@ -84,6 +84,13 @@ main {
   background-color: #F7A4B4;
 }
 
+.kiwi-site {
+  text-decoration: underline;
+  font-family: 'Maven Pro', sans-serif;
+  color: black;
+  font-size: 14px;
+}
+
 
 footer p {
   color: #57BB6B;
