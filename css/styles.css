@@ -6,10 +6,6 @@ body {
   max-width: 380px;
 }
 
-main {
-  background-color: #66CC66;
-}
-
 .white-card {
   text-align: center;
   background: rgba(255,255,255,0.8);
@@ -46,17 +42,30 @@ header {
   background-image: url(../img/background.webp);
 }
 
-.white-color {
+main {
+  background-color: #66CC66;
+}
+
+.white-color-title {
   color: white;
   font-family: Maven Pro;
 }
 
-.green-color {
+.green-color-title {
   color: #57BB6B;
   font-family: 'Maven Pro', sans-serif;
 }
 
-h1 {
+.introduction-text h1 {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 26px;
+}
+
+.introduction-text p {
+  font-family: 'Quattrocento', serif;
+}
+
+.product-list h1 {
   font-family: 'Sriracha', serif;
 }
 .banane {
