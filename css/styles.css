@@ -1,0 +1,49 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 380px;
+}
+
+main {
+  background-color: #66CC66;
+}
+
+
+.white-color {
+  color: white;
+  font-family: Maven Pro;
+}
+
+.green-color {
+  color: #57BB6B;
+  font-family: Maven Pro;
+}
+
+h1 {
+  font-family: Sriracha-Regular;
+}
+.banane {
+  background-color: #FFF8D7;
+}
+
+.kiwi {
+  background-color: #C4F2AD;
+}
+
+.cafe {
+  background-color: #D3C6B2;
+}
+
+.ichigo {
+  background-color: #F7A4B4;
+}
+
+div {
+  border-radius: 21px;
+}
+
+.footer-text {
+  color: #57BB6B;
+}
