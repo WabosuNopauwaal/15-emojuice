@@ -102,6 +102,31 @@ main {
   font-size: 14px;
 }
 
+.introduction-kiwi {
+  background: #C4F2AD;
+   text-align: center; 
+   padding: 50px; 
+}
+
+.introduction-kiwi h1 {
+  font-family: 'Sriracha', sans-serif;
+}
+
+.introduction-kiwi img {
+  width: 40px; 
+}
+
+.presentation-kiwi {
+  background: #57BB6B; 
+  text-align: justify left; 
+  padding: 30px 60px; 
+}
+
+.product-duo {
+  background: #C4F2AD;
+   text-align: center; 
+   padding: 30px 30px 50px;
+}
 
 footer p {
   color: #57BB6B;
