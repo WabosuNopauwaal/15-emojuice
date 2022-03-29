@@ -193,6 +193,13 @@ main {
   font-size: 26px;
 }
 
+.product-duo-cards {
+  display: flex;
+  flex-direction: row;
+  padding: 14px;
+  margin: 10px;
+}
+
 footer p {
   color: #57bb6b;
   text-align: center;
