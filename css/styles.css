@@ -8,29 +8,29 @@ body {
 
 .white-card {
   text-align: center;
-  background: rgba(255,255,255,0.8);
+  background: rgba(255, 255, 255, 0.8);
   padding: 20px 50px;
   margin-bottom: 30px;
 }
 
 .white-card p {
-  color: #57BB6B;
-  font-family: 'Quattrocento', sans-serif;
+  color: #57bb6b;
+  font-family: "Quattrocento", sans-serif;
 }
 
 .button {
-  background-color: #57BB6B;
+  background-color: #57bb6b;
   color: white;
   text-decoration: none;
   border-radius: 14px;
   padding: 13px 15px;
-  font-family:  "Maven Pro", sans-serif;
+  font-family: "Maven Pro", sans-serif;
   font-size: 20px;
   margin-bottom: 13px;
 }
 
 .button-white {
-  color: #57BB6B;
+  color: #57bb6b;
   background-color: white;
   text-decoration: none;
   border-radius: 14px;
@@ -41,7 +41,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
 }
 
 header {
@@ -51,7 +51,7 @@ header {
 }
 
 main {
-  background-color: #66CC66;
+  background-color: #66cc66;
 }
 
 .white-color-title {
@@ -60,20 +60,20 @@ main {
 }
 
 .green-color-title {
-  color: #57BB6B;
-  font-family: 'Maven Pro', sans-serif;
+  color: #57bb6b;
+  font-family: "Maven Pro", sans-serif;
 }
 
 .introduction-text h1 {
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
   font-size: 26px;
 }
 
 .introduction-text p {
-  font-family: 'Quattrocento', serif;
+  font-family: "Quattrocento", serif;
 }
 
-.product-list {
+.fruit-card {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -87,56 +87,60 @@ main {
 }
 
 .product-list h1 {
-  font-family: 'Sriracha', serif;
+  font-family: "Sriracha", serif;
 }
 .banane {
-  background-color: #FFF8D7;
+  background-color: #fff8d7;
 }
 
 .kiwi {
-  background-color: #C4F2AD;
+  background-color: #c4f2ad;
 }
 
 .cafe {
-  background-color: #D3C6B2;
+  background-color: #d3c6b2;
 }
 
 .ichigo {
-  background-color: #F7A4B4;
+  background-color: #f7a4b4;
+}
+
+.card-emoji {
+  width: 80px;
 }
 
 .card-title {
-  font-family: 'Sriracha', serif;
+  font-family: "Sriracha", serif;
   font-size: 30px;
 }
 
 .citation {
-  font-family: 'Quattrocento', serif;
+  font-family: "Quattrocento", serif;
   font-size: 16px;
   color: black;
 }
 
 .kiwi-site {
   text-decoration: underline;
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
   color: black;
   font-size: 14px;
 }
 
 .introduction-kiwi {
-  background: #C4F2AD;
-   text-align: center; 
-   padding: 50px; 
-   color: black;
-   font-family: 'Quattrocento', serif;
+  background: #c4f2ad;
+  text-align: center;
+  padding: 50px;
+  color: black;
+  font-family: "Quattrocento", serif;
 }
 
 .introduction-kiwi h1 {
-  font-family: 'Sriracha', sans-serif;
+  font-family: "Sriracha", sans-serif;
 }
 
 .introduction-kiwi img {
-  width: 40px; 
+  width: 40px;
   border-color: white;
   border-radius: 50%;
   border-style: solid;
@@ -144,16 +148,16 @@ main {
 }
 
 .presentation-kiwi {
-  background: #57BB6B; 
-  text-align: justify left; 
-  padding: 30px 60px; 
+  background: #57bb6b;
+  text-align: justify left;
+  padding: 30px 60px;
   color: white;
-  font-family: 'Quattrocento', serif;
+  font-family: "Quattrocento", serif;
   font-size: 16px;
 }
 
 .presentation-kiwi h2 {
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
 }
 
 .presentation-kiwi img {
@@ -162,23 +166,22 @@ main {
 }
 
 .product-duo {
-  background: #C4F2AD;
-   text-align: center; 
-   padding: 30px 30px 50px;
-   font-family: 'Sriracha', sans-serif;
-   font-size: 20px;
+  background: #c4f2ad;
+  text-align: center;
+  padding: 30px 30px 50px;
+  font-family: "Sriracha", sans-serif;
+  font-size: 20px;
 }
 
 .product-duo h1 {
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
   font-size: 26px;
 }
 
-
 footer p {
-  color: #57BB6B;
+  color: #57bb6b;
   text-align: center;
-  font-family: 'Maven Pro', sans-serif;;
+  font-family: "Maven Pro", sans-serif;
 }
 
 .fruit-emojis {
