@@ -50,6 +50,7 @@ header {
   background-image: url(../img/background.webp);
   background-size: cover;
   padding: 30px;
+  border-top: solid 8px #57BB6B;
 }
 
 main {
@@ -95,6 +96,7 @@ main {
 
 .product-showcase {
   text-align: center;
+  padding: 29px;
 }
 
 .product-list h1 {
@@ -195,13 +197,15 @@ main {
   display: flex;
   flex-direction: row;
   padding: 14px;
-  margin: 10px;
 }
 
 .product-duo-cards a {
   text-decoration: none;
   font-size: 38px;
+}
 
+.product-duo-cards .fruit-card {
+  margin: 14px;
 }
 
 footer p {
