@@ -9,7 +9,8 @@ body {
 .white-card {
   text-align: center;
   background: rgba(255,255,255,0.8);
-  margin: 30px;
+  padding: 20px 50px;
+  margin-bottom: 30px;
 }
 
 .white-card p {
@@ -34,8 +35,6 @@ body {
   text-decoration: none;
   border-radius: 14px;
   font-size: 20px;
-  padding: 13px 15px;
-  margin-bottom: 44px;
 }
 
 .buttons {
@@ -47,6 +46,8 @@ body {
 
 header {
   background-image: url(../img/background.webp);
+  background-size: cover;
+  padding: 30px;
 }
 
 main {
@@ -70,6 +71,19 @@ main {
 
 .introduction-text p {
   font-family: 'Quattrocento', serif;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  background-color: white;
+  color: black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  border-radius: 12px;
+  margin-bottom: 44px;
 }
 
 .product-list h1 {
