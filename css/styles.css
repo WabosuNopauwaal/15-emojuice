@@ -95,9 +95,14 @@ main {
   margin-bottom: 44px;
 }
 
+.product-showcase {
+  text-align: center;
+}
+
 .product-list h1 {
   font-family: "Sriracha", serif;
 }
+
 .banane {
   background-color: #fff8d7;
 }
@@ -180,6 +185,7 @@ main {
   padding: 30px 30px 50px;
   font-family: "Sriracha", sans-serif;
   font-size: 20px;
+  text-align: center;
 }
 
 .product-duo h1 {
