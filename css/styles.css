@@ -135,14 +135,14 @@ main {
   font-size: 16px;
 }
 
+.presentation-kiwi h2 {
+  font-family: 'Maven Pro', sans-serif;
+}
+
 .presentation-kiwi img {
   max-width: 100%;
   height: auto;
 }
-.presentation-kiwi h1 {
-  font-family: 'Maven Pro', sans-serif;
-}
-
 
 .product-duo {
   background: #C4F2AD;
