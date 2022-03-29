@@ -64,6 +64,12 @@ main {
   font-family: "Maven Pro", sans-serif;
 }
 
+.introduction-text {
+  background-color: white;
+  text-align: center;
+  padding: 50px;
+}
+
 .introduction-text h1 {
   font-family: "Maven Pro", sans-serif;
   font-size: 26px;
@@ -71,6 +77,7 @@ main {
 
 .introduction-text p {
   font-family: "Quattrocento", serif;
+  font-size: 16px;
 }
 
 .fruit-card {
