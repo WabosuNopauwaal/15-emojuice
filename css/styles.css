@@ -50,11 +50,11 @@ header {
   background-image: url(../img/background.webp);
   background-size: cover;
   padding: 30px;
-  border-top: solid 8px #57BB6B;
+  border-top: solid 8px #57bb6b;
 }
 
 main {
-  background-color: #66cc66;
+  background-color: #57bb6b;
 }
 
 .white-color-title {
@@ -103,6 +103,10 @@ main {
   font-family: "Sriracha", serif;
 }
 
+.product-list .fruit-card {
+  padding: 15px;
+}
+
 .banane {
   background-color: #fff8d7;
 }
@@ -141,6 +145,16 @@ main {
   font-size: 14px;
 }
 
+.card-element-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-element-row {
+  display: flex;
+  flex-direction: row;
+}
+
 .introduction-kiwi {
   background: #c4f2ad;
   text-align: center;
@@ -154,11 +168,11 @@ main {
 }
 
 .introduction-kiwi img {
-  width: 40px;
+  width: 100px;
   border-color: white;
   border-radius: 50%;
   border-style: solid;
-  border-width: 60px;
+  border-width: 40px;
 }
 
 .presentation-kiwi {
@@ -218,6 +232,7 @@ footer p {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  text-align: center;
 }
 
 .fruit-emojis img {
